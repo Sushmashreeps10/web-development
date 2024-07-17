@@ -24,6 +24,9 @@ Drum Kit
 
 ![image](https://github.com/user-attachments/assets/150167f6-4b3f-457f-ab7b-0342fa47b6ff)
 
+Image Slider
+
+![image](https://github.com/user-attachments/assets/31469c38-40b5-4eb4-80d6-7c3f33e09cbc)
 
 
 
