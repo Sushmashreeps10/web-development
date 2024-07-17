@@ -11,10 +11,6 @@ Random Password Generator
 
 ![image](https://github.com/user-attachments/assets/3c003927-b337-4efd-ac6c-801477ad467b)
 
-BMI Calculator
-
-![image](https://github.com/user-attachments/assets/299b5374-c3b3-4cd3-bdee-1bf0c18bda5b)
-
 Text-Voice converter
 
 ![image](https://github.com/user-attachments/assets/1ed9a086-ae45-4300-999e-8cf413626c32)
