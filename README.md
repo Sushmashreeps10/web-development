@@ -5,3 +5,10 @@ output for rock paper scissor
 Random Password Generator
 
 ![image](https://github.com/user-attachments/assets/3c003927-b337-4efd-ac6c-801477ad467b)
+
+BMI Calculator
+
+![image](https://github.com/user-attachments/assets/299b5374-c3b3-4cd3-bdee-1bf0c18bda5b)
+
+
+
