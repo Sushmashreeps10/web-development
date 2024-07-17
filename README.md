@@ -2,6 +2,10 @@ Google search
 
 ![image](https://github.com/user-attachments/assets/af1fe1d7-188e-4e05-b900-180e64b1aeec)
 
+GitHub profile search
+
+![image](https://github.com/user-attachments/assets/ac1331ae-2e56-4af7-a9e9-bd0846724019)
+
 output for rock paper scissor
 
 ![output](https://github.com/user-attachments/assets/469f5009-49e4-4b6a-b50d-2e766fb2475c)
