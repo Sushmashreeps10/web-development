@@ -32,5 +32,9 @@ Image Slider
 
 ![image](https://github.com/user-attachments/assets/31469c38-40b5-4eb4-80d6-7c3f33e09cbc)
 
+Dice Game
+
+![image](https://github.com/user-attachments/assets/3fcd0586-a70a-40fc-8dc3-64dceee92e41)
+
 
 
