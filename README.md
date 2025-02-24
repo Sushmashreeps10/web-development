@@ -1,5 +1,6 @@
 weather App
-![image](https://github.com/user-attachments/assets/7e733930-5d86-4c15-8cf3-3849278a7643)
+![image](https://github.com/user-attachments/assets/7e733930-5d86-4c15-8cf3-3849278a7643)    ![image](https://github.com/user-attachments/assets/d9149fb2-958d-43d8-ade9-3f1fd7026055)
+
 
 Google search 
 
